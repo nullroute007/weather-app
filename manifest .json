@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "UFUQ — Weather Beyond the Horizon",
+  "short_name": "UFUQ",
+  "description": "A cinematic hyper-local weather experience with forecasts, air quality and location discovery.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101722",
+  "theme_color": "#101722",
+  "categories": [
+    "weather",
+    "utilities",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
